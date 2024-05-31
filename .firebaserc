@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "testing-sqa113",
+    "staging": "staging-sqa113",
+    "production": "production-sqa113"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
